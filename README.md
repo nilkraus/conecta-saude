@@ -45,6 +45,7 @@ Tecnologias Utilizadas
 Estrutura do Projeto
 conecta-saude/
 │
+├── index.html
 ├── cadastro.html
 ├── horarios.html
 ├── perfil-dr-joao.html
@@ -57,7 +58,7 @@ conecta-saude/
 Preview
 
 Acesse o projeto online:  
-
+https://nilkraus.github.io/conecta-saude/
 
  Aprendizados
 
